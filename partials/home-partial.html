@@ -4,7 +4,7 @@
 <div class="text-center md-padding">
     <form>
         <md-input-container class="md-block">
-            <label>Lykillord</label>
+            <label>Lykilorð</label>
             <input md-maxlength="30" required="" md-no-asterisk="" name="lykillord" ng-model="pwd">
             &lt;!&ndash; <div ng-messages="projectForm.description.$error">
                  <div ng-message="required">This is required.</div>
@@ -26,14 +26,18 @@
 
 
 <!--<md-content layout-padding>-->
-<md-input-container flex="50" style="text-align: center">
+
+  <md-content class="md-padding" layout-align="center">
+
+    
+<md-input-container >
     <form name="projectForm">
 
         <md-input-container class="md-block">
             <label>Lykilorð</label>
             <input ng-maxlength="6" ng-minlength="6" required md-no-asterisk name="description" ng-model="details">
             <div ng-messages="projectForm.description.$error">
-                <div ng-message="required">Slá inn lykilorð </div>
+                <div ng-message="required">Slá inn 6 stafa lykilorð </div>
                 <div ng-message="ng-maxlength">The description must be less than  6 characters long.</div>
             </div>
         </md-input-container>
@@ -106,6 +110,7 @@
         </p>-->
     </form>
 </md-input-container>
+      </md-content>
 
 
 <!--{{orderData}}-->
