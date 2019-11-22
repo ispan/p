@@ -1,0 +1,69 @@
+{
+  "_embedded" : {
+    "pwds" : [ {
+      "name" : "ÞORLEIFUR ÁRNI BJÖRNSSON",
+      "customerid" : 1204825999,
+      "address" : "GRANASKJÓL 42",
+      "delivaddress" : "Sunnubraut 14 ",
+      "delivPhone" : "",
+      "phone" : "820 3662",
+      "note1" : "GlermáL - INNBORGUN 31.08.2018",
+      "note2" : "7/9",
+      "orderdate" : "2018-08-31 00:00:00.0",
+      "pwd" : "qpSExp",
+      "orderDetails" : [ {
+        "pontun" : 470880,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "515.0",
+        "hight" : "497.0",
+        "statusID" : 0,
+        "prodBatchN" : 9393,
+        "totalProduced" : 10,
+        "totalOrdered" : 10,
+        "totalDelivered" : 10,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470880,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "1008.0",
+        "hight" : "1173.0",
+        "statusID" : 0,
+        "prodBatchN" : 9393,
+        "totalProduced" : 0,
+        "totalOrdered" : 1,
+        "totalDelivered" : null,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470880,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "429.0",
+        "hight" : "444.0",
+        "statusID" : 0,
+        "prodBatchN" : 9393,
+        "totalProduced" : 2,
+        "totalOrdered" : 2,
+        "totalDelivered" : null,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470880,
+        "unitType" : "EPDM.ÍDR.LISTI  PR MTR.",
+        "width" : null,
+        "hight" : null,
+        "statusID" : 0,
+        "prodBatchN" : null,
+        "totalProduced" : null,
+        "totalOrdered" : 30,
+        "totalDelivered" : null,
+        "spacerID" : null
+      } ],
+      "_links" : {
+        "self" : {
+          "href" : "https://192.168.81.88:8433/pwds/470880"
+        },
+        "pwd" : {
+          "href" : "https://192.168.81.88:8433/pwds/470880/pwd"
+        }
+      }
+    } ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "_embedded" : {
+    "pwds" : [ {
+      "name" : "FERÐAFÉLAG ÍSLANDS",
+      "customerid" : 5301693759,
+      "address" : "MÖRKIN 6",
+      "delivaddress" : "HVANNGIL",
+      "delivPhone" : "898 6700",
+      "phone" : "568-2533",
+      "note1" : "TILBOÐSVERÐ",
+      "note2" : null,
+      "orderdate" : "2018-08-24 00:00:00.0",
+      "pwd" : "dHIhAR",
+      "orderDetails" : [ {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "490.0",
+        "hight" : "521.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "276.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "524.0",
+        "hight" : "491.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "695.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "353.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "652.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "355.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "438.0",
+        "hight" : "314.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "655.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "691.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "655.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "691.0",
+        "hight" : "524.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "488.0",
+        "hight" : "691.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "277.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "490.0",
+        "hight" : "524.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "412.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "691.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "691.0",
+        "hight" : "519.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "692.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "655.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "312.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "691.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "438.0",
+        "hight" : "274.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "412.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "276.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "428.0",
+        "hight" : "314.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "438.0",
+        "hight" : "412.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "438.0",
+        "hight" : "412.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "275.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "276.0",
+        "hight" : "399.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-08-4 MM CLIMAPLUS",
+        "width" : "439.0",
+        "hight" : "312.0",
+        "statusID" : 0,
+        "spacerID" : "08"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "490.0",
+        "hight" : "521.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "353.0",
+        "hight" : "521.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      }, {
+        "pontun" : 470475,
+        "unitType" : "4 MM FLOT-12 -4 MM CLIMAPLUS",
+        "width" : "521.0",
+        "hight" : "691.0",
+        "statusID" : 0,
+        "spacerID" : "12"
+      } ],
+      "_links" : {
+        "self" : {
+          "href" : "https://ts.ispan.is/pwds/470475"
+        },
+        "pwd" : {
+          "href" : "https://ts.ispan.is/pwds/470475/pwd"
+        }
+      }
+    } ]
+  }
+}

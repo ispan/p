@@ -1,0 +1,41 @@
+
+<div class="spinner" ng-show="loading">
+
+</div>
+
+<div ng-hide="loading">
+<div class="page-header" style="border-bottom: 4px solid #d8d9da">
+
+    <h4>{{order.name}}</h4> Pöntuna nr.: <b>{{order.orderDetails[0].pontun}}</b>
+    <br/>
+    Afhendingar staður: <b>{{order.delivaddress}}</b>
+    <br/>
+    Pöntun. dag: <b>{{isDate | date:'d.M.yyyy'}}</b>
+    <br />
+    Staða pöntunar i dag : <b>{{PageDate |date: 'd.M.yyyy'}}</b>
+
+
+</div>
+<div class="text-center">
+
+    <span class="label label-custom" style="border-style:  solid;border-width:  1px;color: #61605e;">pöntun móttekin</span>
+    <span class="label list-group-item-warning">í framleiðslu</span>
+    <span class="label list-group-item-success">tilbúin</span>
+    <span class="label list-group-item-danger">afhend</span>
+
+
+
+</div>
+<hr/>
+
+<ul class="list-group" ng-repeat="detail in order.orderDetails">
+    <li class=" list-group-item {{detail.totalProduced  |status: detail.totalDelivered : detail.prodBatchN : detail.totalOrdered }}">
+        {{detail.unitType }} <br/>
+        Pantað:{{detail.totalOrdered}}Stk. Breidd: {{detail.width}} Hæð {{detail.hight}} <br/>
+        Famleitt: {{detail.totalProduced || "0"}} , Afhend: {{detail.totalDelivered ||"NEI"}}
+
+    </li>
+
+</ul>
+
+</div>

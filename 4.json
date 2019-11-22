@@ -1,0 +1,52 @@
+{
+  "_embedded": {
+    "pwds": [
+      {
+        "name": "KP BYGGIR EHF",
+        "customerid": 6702043750,
+        "address": "GEFJUNARBRUNNI 4",
+        "delivaddress": null,
+        "delivPhone": "864 6699",
+        "phone": "864-6699",
+        "note1": null,
+        "note2": null,
+        "orderdate": "2018-08-24 00:00:00.0",
+        "pwd": "ihaJFW",
+        "orderDetails": [
+          {
+            "pontun": 470470,
+            "unitType": "4 MM FLOT-12 -4 MM CLIMAPLUS",
+            "width": "1437.0",
+            "hight": "934.0",
+            "statusID": 0,
+            "prodBatchN": 9376,
+            "totalProduced": null,
+            "totalOrdered": 2,
+            "totalDelivered": null,
+            "spacerID": "12"
+          },
+          {
+            "pontun": 470470,
+            "unitType": "4 MM FLOT-10 -4 MM CLIMAPLUS",
+            "width": "447.0",
+            "hight": "844.0",
+            "statusID": 0,
+            "prodBatchN": 9376,
+            "totalProduced": null,
+            "totalOrdered": 2,
+            "totalDelivered": null,
+            "spacerID": "10"
+          }
+        ],
+        "_links": {
+          "self": {
+            "href": "https://ts.ispan.is/pwds/470470"
+          },
+          "pwd": {
+            "href": "https://ts.ispan.is/pwds/470470/pwd"
+          }
+        }
+      }
+    ]
+  }
+}
